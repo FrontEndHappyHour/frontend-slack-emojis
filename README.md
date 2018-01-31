@@ -1,6 +1,8 @@
 # Frontend Slack Emojis
 A curated list of emojis of anything and everything frontend related that you can import into Slack. Brought to you by Frontend Happy Hour.
 
+<img src="https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/frontend-slack-emojis-pic.png" alt="A picture of frontend slack emojis in use" />
+
 ## How to add these icons
 
 You can add emojis to your Slack Team by following the instructions in [this Slack article](https://get.slack.help/hc/en-us/articles/206870177-Creating-custom-emoji). 
